@@ -1,0 +1,482 @@
+[
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Wofür wird PowerShell hauptsächlich verwendet?",
+        "Antworten": [
+            "Zum Programmieren von Spielen",
+            "Zum Automatisieren von Aufgaben in Windows",
+            "Zum Surfen im Internet",
+            "Zum Zeichnen von Diagrammen"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Mit welchem Befehl gibt man Text auf der Konsole aus?",
+        "Antworten": [
+            "Write-Host",
+            "Output-Console",
+            "Show-Message",
+            "Print-Text"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Welches Zeichen leitet einen Kommentar ein?",
+        "Antworten": [
+            "#",
+            "$",
+            "&",
+            "@"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was zeigt Get-Help an?",
+        "Antworten": [
+            "Den aktuellen Kontostand",
+            "Hilfeinformationen zu Befehlen ",
+            "Den aktuellen Wetterbericht",
+            "Die Hardwaretemperatur"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Womit werden Variablen eingeleitet?",
+        "Antworten": [
+            "#",
+            "&",
+            "$",
+            "%"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Wie beginnt man in PowerShell ein Cmdlet meistens?",
+        "Antworten": [
+            "Substantiv-Verb",
+            "Verb-Substantiv",
+            "Nur Substantiv",
+            "Nur Verb"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Wie zeigt man alle Dienste an?",
+        "Antworten": [
+            "Show-Services",
+            "Get-Service",
+            "Start-Services",
+            "Enable-Service"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Mit welchem Befehl listet man laufende Prozesse?",
+        "Antworten": [
+            "Get-Programs",
+            "Get-Processes",
+            "Get-Process",
+            "List-Processes"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist ein Cmdlet?",
+        "Antworten": [
+            "Ein kleiner Computer",
+            "Eine Datei-Endung",
+            "Ein spezieller Befehl in PowerShell",
+            "Eine Programmiersprache"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "PowerShell",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Wie kann man Dateien kopieren?",
+        "Antworten": [
+            "Copy-File",
+            "Copy-Object",
+            "Duplicate-Object",
+            "Copy-Item"
+        ],
+        "RichtigeAntwort": 4
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was ist Virtualisierung?",
+        "Antworten": [
+            "Die Erstellung von virtuellen Maschinen",
+            "Das Zeichnen von virtuellen Bildern",
+            "Die Programmierung von Spielen",
+            "Das Surfen im Internet"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Wie nennt man den PC, auf dem VMs laufen?",
+        "Antworten": [
+            "Gast",
+            "Host",
+            "Switch",
+            "Client"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was ist Hyper-V?",
+        "Antworten": [
+            "Microsofts Virtualisierungslösung ",
+            "Ein WLAN-Router",
+            "Eine Datenbank",
+            "Ein CPU-Hersteller"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Welches Hypervisor-Modell läuft direkt auf der Hardware?",
+        "Antworten": [
+            "Typ 1 Hypervisor",
+            "Typ 2 Hypervisor",
+            "Typ 3 Hypervisor",
+            "Typ 4 Hypervisor"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was ist ein Vorteil von Virtualisierung?",
+        "Antworten": [
+            "Erhöhte Hardwarekosten",
+            "Bessere Ressourcennutzung",
+            "Langsamere Systemleistung",
+            "Komplexere Verwaltung"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Welche Software wird häufig für Virtualisierung verwendet?",
+        "Antworten": [
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "VMware Workstation",
+            "Google Chrome"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist ein Snapshot in der Virtualisierung?",
+        "Antworten": [
+            "Ein Bild von der virtuellen Maschine",
+            "Ein Backup der virtuellen Maschine",
+            "Ein Zustand der virtuellen Maschine zu einem bestimmten Zeitpunkt",
+            "Ein Programm zur Erstellung von virtuellen Maschinen"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Welche Art von Virtualisierung ermöglicht es, mehrere Betriebssysteme auf einem Host zu betreiben?",
+        "Antworten": [
+            "Anwendungsvirtualisierung",
+            "Servervirtualisierung",
+            "Desktopvirtualisierung",
+            "Netzwerkvirtualisierung"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist VMware ESXi",
+        "Antworten": [
+            "Ein Texteditor",
+            "Ein Hypervisor",
+            "Ein Webbrowser",
+            "Ein Virenscanner"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Virtualisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Welche Technologie wird häufig für die Netzwerkvirtualisierung verwendet?",
+        "Antworten": [
+            "NAT (Network Address Translation)",
+            "VPN (Virtual Private Network)",
+            "SDN (Software-Defined Networking)",
+            "DHCP (Dynamic Host Configuration Protocol)"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was ist ein virtuelles Laufwerk?",
+        "Antworten": [
+            "Eine echte Festplatte",
+            "Eine Datei, die Speicherplatz für die VM bereitstellt",
+            "Ein Druckertreiber",
+            "Ein Netzwerkgerät"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Wie nennt man die Datei, die die VM beschreibt?",
+        "Antworten": [
+            "VMX-Datei ",
+            "PDF",
+            "ISO",
+            "EXE"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Kann man VMs kopieren?",
+        "Antworten": [
+            "Nein, das geht nicht",
+            "Ja,das geht",
+            "Nur mit CD",
+            "Nur mit Admin-Passwort"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was macht ein virtueller Netzwerkadapter?",
+        "Antworten": [
+            "Öffnet Webseiten",
+            "Spielt Musik ab",
+            "Sendet SMS",
+            "Verbindet die VM mit dem Internet "
+        ],
+        "RichtigeAntwort": 4
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Kann man RAM einer VM ändern?",
+        "Antworten": [
+            "Nein, das geht nicht",
+            "Ja, oft sogar während sie läuft",
+            "Nur mit Spezialsoftware",
+            "Ja, nur wenn die VM aus ist"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was passiert bei „Suspend“?",
+        "Antworten": [
+            "Die VM wird gelöscht",
+            "Die VM wird angehalten",
+            "Die VM wird beschleunigt",
+            "Die VM wechselt ihr OS"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist ein Template?",
+        "Antworten": [
+            "Ein Programm",
+            "Ein Backup der virtuellen Maschine",
+            "Eine Vorlage für neue VMs",
+            "Ein Netzwerkgerät"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Können VMs verschiedene Betriebssysteme auf demselben Host haben?",
+        "Antworten": [
+            "Nein, das geht nicht",
+            "Nur bei Linux",
+            "Ja, das geht nicht",
+            "Nur bei Windows"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist „Thin Provisioning“?",
+        "Antworten": [
+            "Die VM ist verschlüsselt",
+            "Die VM ist schmaler auf dem Bildschirm",
+            "Die VM wird schneller",
+            "Die VM benutzt nur so viel Speicher wie nötig "
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "VM-Konzepte",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Welche Technologie wird häufig für die Netzwerkvirtualisierung verwendet?",
+        "Antworten": [
+            "NAT (Network Address Translation)",
+            "VPN (Virtual Private Network)",
+            "SDN (Software-Defined Networking)",
+            "DHCP (Dynamic Host Configuration Protocol)"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was bedeutet Automatisierung?",
+        "Antworten": [
+            "Aufgaben manuell erledigen",
+            "Aufgaben automatisch ausführen",
+            "Aufgaben langsamer machen",
+            "Aufgaben nur nachts erledigen"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Welches Tool automatisiert auf Windows?",
+        "Antworten": [
+            "PowerShell",
+            "Notepad",
+            "Word",
+            "Photoshop"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was macht ein Skript?",
+        "Antworten": [
+            "Beschleunigt Hardware",
+            "Automatisiert Abläufe",
+            "Schaltet das Licht aus",
+            "Stellt die Uhrzeit ein"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Was ist ein „Cronjob“?",
+        "Antworten": [
+            "Eine Katze",
+            "Ein Texteditor",
+            "Ein CPU-Test",
+            "Ein geplanter, regelmäßig laufender Task"
+        ],
+        "RichtigeAntwort": 4
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Anfänger",
+        "Frage": "Wozu dient Ansible?",
+        "Antworten": [
+            "Musik komponieren",
+            "Server automatisch konfigurieren",
+            "Dokumente drucken",
+            "Bilder bearbeiten"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Wofür steht „CI“?",
+        "Antworten": [
+            "Continuous Integration",
+            "Central Internet",
+            "Computer Interface",
+            "Continuous Internet"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Mit welchem Befehl kann PowerShell Dateien kopieren?",
+        "Antworten": [
+            "Make-Copy",
+            "Duplicate",
+            "Copy-Item",
+            "Clone-File"
+        ],
+        "RichtigeAntwort": 3
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist eine Pipeline (CI/CD)?",
+        "Antworten": [
+            "Eine Abfolge automatisierter Schritte",
+            "Ein Wasserrohr",
+            "Ein Netzwerkprotokoll",
+            "Ein Texteditor"
+        ],
+        "RichtigeAntwort": 1
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Was ist Infrastructure as Code (IaC)?",
+        "Antworten": [
+            "Infrastruktur manuell konfigurieren",
+            "Infrastruktur als Code beschreiben",
+            "Infrastruktur nur für Server",
+            "Infrastruktur nur für Netzwerke"
+        ],
+        "RichtigeAntwort": 2
+    },
+    {
+        "Kategorie": "Automatisierung",
+        "Schwierigkeitsgrad": "Fortgeschritten",
+        "Frage": "Wofür steht „CD“ in CI/CD?",
+        "Antworten": [
+            "Continuous Deployment",
+            "Central Data",
+            "Continuous Delivery",
+            "Cebtral Development"
+        ],
+        "RichtigeAntwort": 3
+    }
+]
